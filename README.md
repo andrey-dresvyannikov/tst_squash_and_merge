@@ -1,6 +1,6 @@
-# tst_squash_and_merge
+# tst squash and merge
 testing repo for squash and merge
 
 update 3
 update 1
-update 3
+update 2
